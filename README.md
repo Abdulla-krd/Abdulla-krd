@@ -10,12 +10,9 @@
 ## 🔮 About Me
 🌍 **Front-end Developer** based in Shaqlawa, Kurdistan
 
-<a href="https://app.daily.dev/korakkurani"><img src="https://api.daily.dev/devcards/v2/aCi5TpFP41hPWj9x2Wp5J.png?type=default&r=hv2" width="356" alt="Korak Kurani's Dev Card"/></a>
-
-
 
 ## 🥇 My Tech Arsenal
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![React.js](https://img.shields.io/badge/-ReactJs-23%DAFB?logo=react&logoColor=white)  ![AWS](https://img.shields.io/badge/-AWS-%23FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Vue.js](https://img.shields.io/badge/-Vue.js-%234FC08D?style=for-the-badge&logo=vue.js&logoColor=white) ![Astro](https://img.shields.io/badge/-Astro-%23FF5D01?style=for-the-badge&logo=astro&logoColor=white) ![Git](https://img.shields.io/badge/-Git-%23F05032?style=for-the-badge&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-%23FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Ruby](https://img.shields.io/badge/-Ruby-%23CC342D?style=for-the-badge&logo=ruby&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 
 ## 🔐 Let's Connect
