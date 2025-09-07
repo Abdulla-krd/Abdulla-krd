@@ -8,7 +8,7 @@
 
 
 ## 🔮 About Me
-🌍 **Full-stack Developer** based in Berlin, Germany
+🌍 **Front-end Developer** based in Shaqlawa, Kurdistan
 
 <a href="https://app.daily.dev/korakkurani"><img src="https://api.daily.dev/devcards/v2/aCi5TpFP41hPWj9x2Wp5J.png?type=default&r=hv2" width="356" alt="Korak Kurani's Dev Card"/></a>
 
@@ -19,25 +19,12 @@
 
 
 ## 🔐 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/korak-kurani-94351b235)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge)](https://www.korak-kurani.com)  
-[![Daily Dev](https://img.shields.io/badge/Daily%20Dev%20-%23000000.svg?style=for-the-badge)](https://app.daily.dev/DailyDevTips)
-[![Dev.to](https://img.shields.io/badge/Dev.to-%230A0A0A.svg?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/korak997)
 
 
 ---
 
 ✨ *Feel free to reach out for collaborations or just to say hi!*  
 🌐 *Let’s build something amazing together.*
-
-
-
-
-
-
-<h1 align="center">Hi 👋, I'm Abdulla Hatam</h1>
-<h3 align="center">A passionate frontend developer from Kurdistan</h3>
-
 
 
 - 🔭 I’m currently working on **freelance**
