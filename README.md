@@ -1,4 +1,4 @@
-# Hey there! ✨ I'm Korak 👋
+# Hey there! ✨ I'm Abdulla 👋
 > “Turning ideas into reality, one line of code at a time.”
 
 ## 🌟 Visitor Count
