@@ -3,6 +3,8 @@
 
 ## 🔮 About Me
 🌍 **Front-end Developer** based in Shaqlawa, Kurdistan
+<kbd>[<img title="Kurdî" alt="Kurdî" src="https://upload.wikimedia.org/wikipedia/commons/3/35/Flag_of_Kurdistan.svg" width="22">](docs/translations/README.kr.md)</kbd>
+
 
 
 ## 🥇 My Tech Stack
